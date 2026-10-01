@@ -6,10 +6,7 @@ I enjoy debugging more than almost anything else in software, so building a debu
 
 ### What I've built in DevTools
 
-- **Framework adapters**: I wrote the adapters that bring DevTools beyond WebdriverIO, so teams on other frameworks get the same dashboard and trace format:
-  [Nightwatch.js](https://github.com/webdriverio/devtools/blob/main/packages/nightwatch-devtools/README.md) ·
-  [Selenium WebDriver (JavaScript)](https://github.com/webdriverio/devtools/blob/main/packages/selenium-devtools/README.md) ·
-  [Selenium (Python)](https://github.com/webdriverio/devtools/blob/main/packages/selenium-devtools-py/README.md)
+- **Framework support**: I built DevTools for [WebdriverIO](https://github.com/webdriverio/devtools/blob/main/packages/service/README.md) · [Nightwatch.js](https://github.com/webdriverio/devtools/blob/main/packages/nightwatch-devtools/README.md) · [Selenium WebDriver (JavaScript)](https://github.com/webdriverio/devtools/blob/main/packages/selenium-devtools/README.md) · [Selenium (Python)](https://github.com/webdriverio/devtools/blob/main/packages/selenium-devtools-py/README.md), all sharing the same dashboard and trace format
 - **Live dashboard**: opens while your tests run and shows every command, the page, console and network logs, with one-click reruns of a single test
 - **Trace mode**: portable `trace.zip` archives with per-test slices, DOM time-travel and an offline player, for CI runs or for handing to a coding agent
 - **Hybrid-app webview capture** for mobile sessions
