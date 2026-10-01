@@ -14,8 +14,6 @@ I enjoy debugging more than almost anything else in software, so building a debu
 - **Trace mode**: portable `trace.zip` archives with per-test slices, DOM time-travel and an offline player, for CI runs or for handing to a coding agent
 - **Hybrid-app webview capture** for mobile sessions
 
-<img src="https://github.com/webdriverio/devtools/raw/main/assets/trace-player.gif" alt="WebdriverIO DevTools trace player" width="720">
-
 ### Before BrowserStack
 
 Nearly three years at [Freshworks](https://www.freshworks.com), Chennai, on backend work in Ruby on Rails and Java. Built real-time agent sync between Freshworks' CRM and Freshdesk, and a worker that unified account data across linked products.
